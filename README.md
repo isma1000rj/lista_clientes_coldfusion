@@ -1,4 +1,4 @@
-# Lista de Clientes 🐱
+# Lista de Clientes
 
 Um pequeno projeto para listar dados sobre os clientes com coldfusion e javascript.
 
